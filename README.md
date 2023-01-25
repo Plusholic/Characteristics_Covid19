@@ -1,3 +1,9 @@
 # Characteristics_Covid19
 
 https://www.mdpi.com/1660-4601/19/7/4056
+
+# Evolution of Responses to COVID-19 and Epidemiological Characteristics in South Korea
+
+### Abstract
+
+The characteristics of COVID-19 have evolved at an accelerated rate over the last two years since the first SARS-CoV-2 case was discovered in December 2019. This evolution is due to the complex interplay among virus, humans, vaccines, and environments, which makes the elucidation of the clinical and epidemiological characteristics of COVID-19 essential to assess ongoing policy responses. In this study, we carry out an extensive retrospective analysis on infection clusters of COVID-19 in South Korea from January 2020 to September 2021 and uncover important clinical and social factors associated with age and regional patterns through the sophisticated large-scale epidemiological investigation using the data provided by the Korea Disease Control and Prevention Agency (KDCA). Epidemiological data of COVID-19 include daily confirmed cases, gender, age, city of residence, date of symptom onset, date of diagnosis, and route of infection. We divide the time span into six major periods based on the characteristics of COVID-19 according to various events such as the rise of new variants, vaccine rollout, change of social distancing levels, and other intervention measures. We explore key features of COVID-19 such as the relationship among unlinked, asymptomatic, and confirmed cases, serial intervals, infector–infectee interactions, and age/region-specific variations. Our results highlight the significant impact of temporal evolution of interventions implemented in South Korea on the characteristics of COVID-19 transmission, in particular, that of a high level of vaccination coverage in the senior-aged group on the dramatic reduction of confirmed cases.
